@@ -7,7 +7,7 @@ This are my skills.
 
 | Scope | Skills |
 | ------ | ------ |
-| Web Dev | HTML, CSS, JavaScript, C# |
+| Web Dev | HTML, CSS, JavaScript, C#, MERN, PHP |
 | Design | Figma, Illustrator, Photoshop |
 | Illustration | Digital art, Traditional art  - Gouache, Oil painting  |
 
