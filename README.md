@@ -13,7 +13,7 @@ This are my skills.
 
 
 - 🔭 I’m currently working on ... Finishing my web development diploma
-- 🌱 I’m currently learning ... development
+- 🌱 I’m currently learning ... more about making website more visually engaging with CSS animation and Web3 development
 - 👯 I’m looking to collaborate on ... my horror game project
 - 💬 Ask me about ... Anything, really! I'd love to make friends! 
 - 📫 How to reach me: ... codessuzy@gmail.com
