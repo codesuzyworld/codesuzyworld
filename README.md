@@ -5,7 +5,7 @@
 
 | Scope | Skills |
 | ------ | ------ |
-| Web Dev | HTML, CSS, JavaScript, C#, MERN, Firebase, PHP |
+| Web Dev | HTML, CSS, JavaScript, C#, MERN, Supabase, NextJS, Firebase, PHP, Laravel|
 | Design | Figma, Illustrator, Photoshop |
 | Illustration | Digital art, Traditional art  - Gouache, Oil painting  |
 
