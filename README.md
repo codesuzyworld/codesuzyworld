@@ -1,5 +1,5 @@
 # Suzy Codes
-## I am a graphics designer, illustrator learning web dev! 
+## I am a creative technologist that loves web design and front-end technology!  
 
 ### My skills
 
@@ -13,8 +13,8 @@ Check out my [Design Portfolio](https://suzannadraws.myportfolio.com/) and [Deve
 
 
 
-- 🔭 I’m currently working on ... Finishing my web development diploma
-- 🌱 I’m currently learning ... more about making website more visually engaging with CSS animation and Web3 development
+- 🔭 I’m currently working on ... Broccoli, an agentic AI grocery app! 
+- 🌱 I’m currently learning ... React Native and get into mobile development
 - 👯 I’m looking to collaborate on ... my horror game project
 - 💬 Ask me about ... Anything, really! I'd love to make friends! 
 - 📫 How to reach me: ... codessuzy@gmail.com
